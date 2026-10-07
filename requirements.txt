@@ -1,0 +1,11 @@
+roboflow
+ultralytics
+torch
+torchvision
+timm
+opencv-python-headless
+scikit-learn
+pandas
+matplotlib
+pyyaml
+tqdm
